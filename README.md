@@ -24,7 +24,7 @@ Pronouns: He/Him
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" height="20" src="https://user-images.githubusercontent.com/41203930/174125678-8d078690-98ff-47ad-9abf-979e450eab59.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" height="20" src="https://user-images.githubusercontent.com/41203930/174126599-a55876ca-3e40-4c63-a167-0e392dcd0ded.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
