@@ -10,10 +10,10 @@ Pronouns: He/Him
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/NicholG90">
-  <img align="left" alt="Nick Gourlay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Nick Gourlay's Twitter" width="22px" src="https://user-images.githubusercontent.com/41203930/174125254-d52e8667-bbe2-4216-b967-d00a81a567f3.png" />
 </a>
 <a href="https://linkedin.com/in/nickgourlay">
-  <img align="left" alt="Nick Gourlay's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nick Gourlay's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/41203930/174125450-6f107867-f308-4235-8c13-905a52558137.png" />
 </a>
 
 <br>
