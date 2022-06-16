@@ -29,6 +29,6 @@ Pronouns: He/Him
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img align="left" height="20" src="https://user-images.githubusercontent.com/41203930/174126751-7bd7aa44-0f3d-4cdd-a83d-5f7c76bfe2b0.png">
 
 <!-- ReadMe Inspired by ALex Calia (https://github.com/alexcalia/alexcalia/blob/main/README.md) -->
