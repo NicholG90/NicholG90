@@ -5,6 +5,8 @@ Knowledgeable in HTML/CSS, Javascript and React, while still continuing to grow 
 
 Something About Me: I'm an aspiring triathlete. I enjoy the challenge of pushing your body in long distant events.
 
+Pronouns: He/Him
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/NicholG90">
