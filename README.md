@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Nick!</h1>
-<h3 align="left">A Front-End Web Developer passionate about solving problems and building exciting solutions on the web.</h3>
+<h3 align="left">A Full Stack Software Developer, passionate about solving problems and building exciting software solutions.</h3>
 
-Knowledgeable in HTML/CSS, Javascript and React, while still continuing to grow across new disciplines and technologies.
+Knowledgeable in Typescript/Javascript, Node, React, React Native, Vue and HTML/CSS, while still continuing to grow across new disciplines and technologies.
 
 Something About Me: I'm an aspiring triathlete. I enjoy the challenge of pushing your body in long distant events.
 
@@ -17,9 +17,6 @@ Pronouns: He/Him
 </a>
 
 <br>
-
-<h3 align="left">My Writing:</h3>
-<p><a href="https://medium.com/@nickgourlay">Medium</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
